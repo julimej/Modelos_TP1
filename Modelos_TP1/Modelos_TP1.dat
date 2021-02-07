@@ -1,0 +1,21 @@
+ /*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: julian
+ * Creation Date: Feb 5, 2021 at 4:08:00 PM
+ *********************************************/
+
+EMPLEADOS = {"Ariel Arregui","Bárbara Barazzi","Carlos Colautti","Diana Díaz","Ernesto Echeverría","Fabiana Fernández","Gastón García","Hilda Hortiguera","Ignacio Ibarra","Julieta Jerez","Keylor Kaplov","Leila Laplace","Mariano Medina","Natalia Nuñez","Oscar Ondabuena","Patricia Perez","Quique Quatrocci","Rebeca Ruiz","Sebastián Suca","Tamara Tapia"};
+
+COSTOREEMP = [5000,4000,3600,6000,2000,3000,7000,8000,5600,6000,5000,10000,4000,3600,6000,5000,3000,7000,8000,5600];
+
+TAREAS = {"RM", "PP", "CO"};
+
+EFICIENCIA = [100, 20, 60];
+
+DIAS = {"L","M","X"};
+
+/**CANTIDADES = [
+[2200, 1000, 1620],
+[0, 1200, 3200],
+[2200, 1000, 1620]
+];*/
